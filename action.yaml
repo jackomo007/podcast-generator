@@ -7,7 +7,7 @@ runs:
 branding:
     icon: "git-branch"
     color: "red"
-inputs
+inputs:
     email:
         description: The commiter's email address
         required: true
